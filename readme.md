@@ -3,6 +3,8 @@
 ## 📌 Overview
 This project is an **AI-driven Resume Screening and Ranking System** designed to automate the process of evaluating and ranking resumes based on job descriptions. It leverages **Natural Language Processing (NLP)** techniques to extract relevant information and match candidates to job roles efficiently.
 
+![](docs/project_demo.mp4)
+
 ## 🌟 Features
 - 📂 **Resume Upload:** Users can upload multiple resumes in PDF format.
 - 🔍 **Keyword Extraction:** Uses **TF-IDF, YAKE, and spaCy** for keyword extraction.
@@ -64,4 +66,4 @@ resume-screening-ai/
 Special thanks to **TechSaksham** and **Saomya Chaudhury** for guidance and support.
 
 ---
-📖 For detailed documentation, check out the [Project Report](https://github.com/yourusername/resume-screening-ai/docs).
+📖 For detailed documentation, check out the [Project Report](https://github.com/vedantjain8/AI-powered-Resume-Screening-and-Ranking-System/tree/main/docs).
